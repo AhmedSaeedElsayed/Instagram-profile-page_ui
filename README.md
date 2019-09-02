@@ -1,4 +1,4 @@
-# instagram_app_ui
+# Instagram App Ui
 A new Flutter project.
 
 # Screenshot
