@@ -1,6 +1,9 @@
-# instagram_app_ui
+# Instagram profile page ui 
 
 A new Flutter project.
+
+# screenshot
+![Screenshot_2019-08-30-14-31-50-852_com example instagram_app_ui](https://user-images.githubusercontent.com/39589782/64608206-70277780-d3ca-11e9-86c6-eac73edc6cf8.png)
 
 ## Getting Started
 
